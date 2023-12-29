@@ -4,6 +4,16 @@ Share this form and collect responses and data :)
 
 We online now: https://form-builder-blush.vercel.app/sign-in?redirect_url=https%3A%2F%2Fform-builder-blush.vercel.app%2F
 
+## Stack:
+- TypeScript
+- NextJS
+- Prisma
+- Vercel
+- Clerk (Auth)
+- Tailwind CSS
+- DndKit
+- React-Hook-Form
+- zod
 
 ## Features:
 - Responsive design.
