@@ -28,4 +28,4 @@ We online now: https://form-builder-blush.vercel.app/sign-in?redirect_url=https%
 
 
 ## UI:
-- Utilizes the shadcn/ui library for a sleek user interface.
+- shadcn/ui
