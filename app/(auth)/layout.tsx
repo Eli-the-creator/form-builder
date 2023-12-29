@@ -1,6 +1,5 @@
 import Logo from "@/components/Logo";
 import ThemeSwitcher from "@/components/ThemeSwitcher";
-import { UserButton } from "@clerk/nextjs";
 import React, { ReactNode } from "react";
 
 function Layout({ children }: { children: ReactNode }) {
@@ -12,7 +11,7 @@ function Layout({ children }: { children: ReactNode }) {
           <ThemeSwitcher />
         </div>
       </nav>
-      <main className="flex w-full flex-grow">{children}</main>
+      <main className="flex w-full flex-grow justify-center items-center">{children}</main>
     </div>
   );
 }
