@@ -2,7 +2,7 @@
 Build form by dragging and dropping.
 Share this form and collect responses and data :)
 
-We online now: https://form-builder-blush.vercel.app/sign-in?redirect_url=https%3A%2F%2Fform-builder-blush.vercel.app%2F
+We online now: https://form-builder-blush.vercel.app/
 
 ## Stack:
 - TypeScript
